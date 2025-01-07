@@ -1,0 +1,11 @@
+texto = 'forMaTAcao de sTRIngs' 
+print 'center:', texto.center(30)
+print 'center:',texto.center(30,'#')
+print 'ljust :',texto.ljust(30,'!')
+print 'rjust :',texto.rjust(30,'-')
+print 'capit :',texto.capitalize()
+print 'title :',texto.title()
+print 'lower :',texto.lower()
+print 'upper :',texto.upper()
+print 'swapc :',texto.swapcase()
+print 'zfill :',texto.zfill(30)

@@ -1,0 +1,5 @@
+print 'a turma %c possui %d alunos!!'%('A',32)
+print 'a turma %s teve media %f !!'%('A02',6.542322)
+print 'a turma %s teve media %.2f !!'%('A02',6.542322)
+print 'a sala %s tem %e metros quadrdos!!'%('105',42.76584)
+print 'a sala %s tem %.2e metros quadrdos!!'%('105',42.76584)
